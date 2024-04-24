@@ -1,11 +1,30 @@
 body {
+    background-color: black;
+}
+.first {
     text-align: center;
     justify-content: space-around;
-    background-color: black;
     color: white;
-    max-width: 600px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+
+.second {
+    text-align: center;
+    justify-content: space-around;
+    color: white;
     margin: 0 auto;
 }
+.second h2{
+    color: white;
+}
+.second h3{
+    color: white;
+}
+.second p{
+    color: white;
+}
+
 
 .person-website {
     text-align: center;
