@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.person-website {
+    text-align: center;
+}
